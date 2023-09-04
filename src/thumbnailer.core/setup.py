@@ -42,7 +42,7 @@ setup(name=guess_package_name(),
       zip_safe=False,
       install_requires=['setuptools',
                         'Flask == 0.8',
-                        'requests == 0.11.1',
+                        'requests == 2.31.0',
                         ],
       entry_points="""""",
       )
